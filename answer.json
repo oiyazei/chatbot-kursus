@@ -1,0 +1,118 @@
+{
+  "intents": [
+    {
+      "intent": "kursuscoding",
+      "responses": [
+        "Akademi menghadirkan kursus coding yang berfokus pada pemahaman algoritma. \n\nKurikulum mencakup Visual Programming, literasi digital, VR/AR, HTML/CSS/JS, Game Programming (Scratch, Roblox, Construct), AI, dan Python.\n\nKursus Coding ini terbagi menjadi beberapa kategori usia : \n- Junior (5-9 tahun) : Junior berfokus pada pemahaman logika dasar menggunakan game sederhana melalui code.org dan scratch junior. \n\n- Kids (8-14 tahun) : Kids berfokus pada pemahaman algoritma tingkat lanjut menggunakan aplikasi scratch, construct 3 untuk game development, javascript dasar, serta roblox studio. \n\n- Teens (15-18 tahun) : Teens berfokus pada pemograman lanjut seperti Javascript ataupun Game Programming. \n\n- Pro (18 tahun keatas) : Pro berfokus pada karir dan jenjang yang mengarah ke Web programming, Data Scientist dan Machine Learning."
+      ]
+    },
+    {
+      "intent": "kursusdesign",
+      "responses": [
+        "Akademi menawarkan kursus desain yang dirancang untuk professional desainer dan berfokus untuk meningkatkan kreativitas siswa. \n\nKurikulum kursus desain di Akademi adalah : Literasi seni visual (pemahaman terkait unsur dan prinsip seni seperti warna, bentuk dan komposisi), desain grafik (pemahaman dasar pembuatan desain grafis), Animasi 2D (pembuatan animasi 2d sederhana sesuai dengan imajinasi mereka), serta UI/UX (pemahaman terkait tampilan aplikasi di handphone dan website). \n\nSelama pembelajaran, Kursus desain di akademi menggunakan software adobe yang sudah disediakan, jadi, siswa hanya tinggal pakai saja ya! Kursus Desain menyediakan dua tipe kelas berdasarkan usia, yaitu : \n\n- Kids (8-12 tahun) : Kids akan berfokus pada pemahaman awal mengenai komponen desain yaitu warna, bentuk dan komposisi. \n\n- Teens (13-18 tahun) : Teens akan masuk ke pembelajaran lanjut terkait desain seperti pemahaman desain aplikasi."
+      ]
+    },
+    {
+      "intent": "kursushisensei",
+      "responses": [
+        "Kursus Hisensei adalah Kursus yang menyediakan pembelajaran bahasa inggris dan matematika. Untuk saat ini, kursus hisensei HANYA untuk anak TK/PAUD atau sepantaran. \n\nKurikulum Bahasa Inggris meliputi membaca, kosakata, tata bahasa, serta tantangan menulis dan berbicara. \n\nKurikulum Matematika mencakup dasar-dasar hingga konsep lanjutan seperti perkalian, pecahan, dan desimal. Pembelajaran menggunakan LMS dan buku tulis. Kursus Hisensei ini menerima siswa yang berumur 4-6 tahun ataupun siswa yang masih kesulitan dalam membaca dan berhitung."
+      ]
+    },
+    {
+      "intent": "pendaftaran",
+      "responses": [
+        "Pendaftaran GRATIS dan tidak dapat dilakukan secara online. Tahapan Pendaftaran : \n\n1. Kunjungi cabang Akademi terdekat pada Hari dan Jam Operasional (Senin s/d Jumat : 11.00 - 19.00 | Sabtu : 09.00 - 15.00). Bila ingin buat janji atau booking, bisa beralih chat menuju No Admin : +6285179981152. \n\n2. Setelah kamu datang menuju cabang akademi terdekat, selanjutnya akan dilaksanakan Trial Class (Kelas untuk Tes apakah Murid berhasil mengerjakan tugas dengan baik atau tidak). \n\n3. Bila tes dikerjakan dengan baik, maka siswa akan diterima dan lanjut ke proses pembayaran pada meja Admin. Pembayaran bisa dilakukan pada hari yang sama maupun keesokan harinya. \n\nSyarat agar siswa dapat lolos tes pendaftaran adalah : Umur yang sesuai, serta sudah dapat membaca (bila kamu memilih kelas desain dan coding). \n\nKalau kamu mau tau perihal usia peserta yang sesuai, bisa ketik 'usia peserta' ya."
+      ]
+    },
+    {
+      "intent": "pembayaran",
+      "responses": [
+        "Pembayaran dapat dilakukan secara cash, qris dan BCA. Setelah selesai mendaftarkan anak di Akademi, kamu dapat menuju ke Admin untuk pembayaran pertama atau menghubungi nomor admin (+6285179981152) untuk meminta kode pembayaran. Pembayaran tidak dapat dicicil, dan tidak ada denda bila terlambat dalam membayar. \n\nNote : \n1. Pembayaran dilakukan hanya untuk Pembayaran Kelas Kursus. Pendaftaran dan Trial Class tidak di pungut biaya. \n2. Tidak menerima refund atau pengembalian uang. \n3. Jika ingin mengetahui harga kursus, kamu bisa ketik 'cek harga'."
+      ]
+    },
+    {
+      "intent": "aplikasi",
+      "responses": [
+        "Aplikasi yang digunakan selama pembelajaran di semua krusus adalah LMS (Learning Management System) dimana murid akan mempelajari materi disana. \n\n Untuk kursus coding, Aplikasi tambahan yang digunakan adalah Scratch, Construct dan VS Code. \n\n Sedangkan untuk kursus desain, aplikasi tambahan yang digunakan adalah adobe yang sudah disiapkan di Akademi. \n\n Untuk kursus Hisensei, saat ini hanya menyediakan LMS. "
+      ]
+    },
+    {
+      "intent": "speklaptop",
+      "responses": [
+        "Spesifikasi Laptop yang disarankan adalah Laptop 4GB RAM atau lebih. Namun, bila ingin hasil yang lebih maksimal, kamu dapat gunakan laptop dengan spesifikasi 8 sampai 16 GB RAM. \n\nTetapi jangan khawatir, bila kamu tidak memiliki Laptop, kamu dapat menyewa laptop yang ada di akademi dan dikenakan biaya sebesar IDR 100.000 untuk 4x pemakaian / 4x pertemuan dalam 1 bulan, serta IDR 150.000 untuk 8x Pertemuan dalam 1 Bulan."
+      ]
+    },
+    {
+      "intent": "hubungikami",
+      "responses": [
+        "Lokasi : Green Lake City Boulevard, Rukan Columbus Blok A No 05, Ketapang, Cipondoh, Kota Tangerang 15147 (Google Maps : https://maps.app.goo.gl/6gqecwNcaLcTheKm8) \n\n Nomor Admin : +6285179981152 \n\n Jam Operasional : Senin – Jumat pukul 11.00 – 19.00 WIB, Sabtu pukul 9.00 – 15.00 WIB. \n\n Informasi Cabang lain dapat ditemukan pada link berikut : https://timedooracademy.com/id/cabang-kami/"
+      ]
+    },
+    {
+      "intent": "trialclass",
+      "responses": [
+        "Trial Class adalah Kelas gratis yang digunakan untuk melakukan tes pada siswa yang hendak mendaftar pada kursus tertentu di Akademi, juga sebagai kelas percobaan GRATIS. \n\nTujuan Trial Class adalah memberikan siswa pengalaman terbaik di kelas secara gratis untuk 1 hari dan mencoba pembelajaran yang sesuai dengan mereka. \n\nSEPUTAR TRIAL CLASS : \n\n1. Trial class akan berlangsung selama 1 jam pada jam operasional Akademi (Senin-Jumat pukul 11.00 – 19.00 WIB | Sabtu pukul 9.00 – 15.00 WIB). \n\n2. Siswa yang akan melakukan tes TIDAK PERLU membawa laptop, karena Akademi sudah menyediakannya. \n\n3. Pemberitahuan bahwa siswa lolos tes atau tidak dan info pembayaran kelas, akan langsung diberitahu oleh Teacher yang mengajar di hari yang sama. "
+      ]
+    },
+    {
+      "intent": "peserta",
+      "responses": [
+        "Akademi membuka kursus dengan segala usia, mulai dari : \n\n- Junior (anak berusia 5-7 tahun) \n\n- Kids (anak berusia 8-12 tahun) \n\n- Teens (remaja berusia 13-18 tahun) \n\n- Pro (18 tahun keatas, tidak ada maksimal usia) \n\nUntuk Kursus Coding, kami menyediakan seluruh kategori usia (dari junior hingga pro). \n\nUntuk Kursus Design, kami menyediakan kelas Kids dan Teens saja. \n\nUntuk Kursus Hisensei (Inggris & Math), HANYA untuk anak-anak (Junior). \n\nJika kamu adalah mahasiswa, sedang bekerja, atau memiliki kesibukan lain dan tetap ingin mendaftarkan diri, jangan ragu! Karena akademi menyediakan pembelajaran yang fleksibel dan dapat mengganti hari yang sesuai dengan kamu, agar dapat belajar dengan lancar!"
+      ]
+    },
+    {
+      "intent": "biaya",
+      "responses": [
+        "Biaya Kursus dimulai dari harga Rp. 500.000 per bulan dan pembayaran dapat dilakukan secara langsung dengan mendatangi Admin di Lokasi Akademi (Untuk Mengetahui metode bayar secara lengkap, bisa ketik : Cara Pembayaran). \n\nNamun, masing-masing kelas kursus memiliki harga yang bervariasi. kamu ingin melihat biaya kursus coding, desain atau hisensei?"
+      ]
+    },
+    {
+      "intent": "info_coding",
+      "responses": [
+        "Coding adalah proses menulis dan memahami instruksi yang dimengerti oleh komputer dengan bahasa pemogrograman. \n\nDi era serba modern ini, Profesi Programmer dibutuhkan untuk mengembangkan aplikasi, data analyst dan networking. \n\nUntuk pemula, akan diajarkan mengenai logika dasar dan algoritma (serangkaian instruksi yang digunakan untuk memecahkan masalah). \n\nKamu juga tidak harus memiliki latar pendidikan IT sebelumnya, semua bisa belajar dari 0 secara mandiri. Bila kamu belajar di Akademi, akan ada Teacher yang membantu!"
+      ]
+    },
+    {
+      "intent": "info_design",
+      "responses": [
+        "Grafik Desainer adalah posisi yang sering dibutuhkan pada era modern saat ini. \n\nDesainer seringkali bertugas untuk mendesain, merancang dan mengkomunikasikan ide visual secara efektif dan fungsional seperti logo (simbol), desain brand (identitas yang melekat pada sebuah produk),  aplikasi dan animasi sederhana. \n\nDesainer bertujuan agar dapat membantu perusahaan untuk mengembangkan produk baru yang kreatif. \n\nDesainer erat kaitannya dengan portfolio, yaitu hasil karya yang sudah dibuat dapat diperkenalkan kepada perusahaan saat melamar pekerjaan. \n\nTak perlu memiliki latar belakang desain untuk menjadi seorang desainer, semua dapat dipelajari dari 0 secara mandiri. Walau kamu akan menemui beberapa kesulitan seperti sulit memahami teori desain, Kamu akan dapat melatih diri sendiri dan membutuhkan waktu untuk belajar."
+      ]
+    },
+    {
+      "intent": "pembelajaran",
+      "responses": [
+        "Informasi terkait Pembelajaran : \n\n1. Kegiatan belajar di Akademi berlangsung secara OFFLINE (belum tersedia online), dan siswa bisa mengikuti kelas privat. \n\n2. Tiap kelas terdiri dari 5–6 siswa dengan sistem belajar adaptif yaitu fokus pada kemampuan masing-masing. \n\n3. Akademi hanya menyediakan 1–2 pertemuan per minggu. \n\n4. - Durasi belajar kelas junior (5-9 tahun) adalah 60 menit \n\n- kids (8-14 tahun), teens (15-18 tahun) dan pro (18 tahun keatas) adalah 90 menit. \n\n5. Jam Belajar di Akademi terbagi beberapa waktu, diantaranya : \n\n- Senin s/d Jumat (Dimulai dari jam 1 Siang / jam 3 sore / jam 5 sore) \n\n- Sabtu (Dimulai dari jam 9 pagi/ jam 11 siang / jam 1 siang) \n\nJangan khawatir, kalau kamu berhalangan hadir kamu bisa re-schedule kelas dengan konsultasi ke Admin dulu ya."
+      ]
+    },
+    {
+      "intent": "umum",
+      "responses": [
+        "Halo, selamat datang di Chatbot Akademi! \n\nKami menyediakan 3 jenis kursus yaitu : CODING, DESIGN, INGGRIS & MATEMATIKA untuk anak-anak hingga remaja dewasa. \n\nKEUNTUNGAN YANG BISA DIDAPAT : \n\n1. Fasilitas Pembelajaran LENGKAP! (Laptop, Ruang ber-AC, Lingkungan Suportif) \n\n2. Sertifikat (Bisa untuk sekolah maupun kerja) & Merchandhise berupa Botol Minum, Tas, Mainan, Alat Tulis. \n\nKamu bisa mempelajari semua hal dari 0 dan materi yang disediakan sudah sangat sesuai untuk pemula (Telah diakui oleh STEM) dan ditemani Teacher yang ahli dalam bidangnya. Jadi, gak perlu takut kalau kamu belum paham apapun, Kami pasti akan menemani pembelajaranmu dengan baik!"
+      ]
+    },
+    {
+      "intent": "biaya_coding",
+      "responses": [
+        "Kelas Coding tersedia dalam dua bahasa: Bahasa Indonesia dan Bahasa Inggris. \n\nHarga kelas CODING PER BULAN untuk KELAS BAHASA INDONESIA (Materi yang diajarkan berbahasa Indonesia) adalah : \n\n1) 4 pertemuan/bulan : Rp575.000. \n2) 8 pertemuan/bulan : Rp995.000. \n\nUntuk Kelas BAHASA INGGRIS (Materi yang diajarkan berbahasa inggris) adalah : \n\n1) 4x pertemuan/bulan : Rp680.000. \n2) 8x pertemuan/bulan : Rp1.100.000. \n\nNOTE : Tambahan Rp100.000 untuk kelas akhir pekan (Sabtu). \n\nBiaya belum termasuk Class Kit sebesar Rp300.000 (e-learning, LMS Subscription, alat pembelajaran, dan sertifikat). \n\nRental laptop tersedia dengan harga Rp100.000 untuk 4x pertemuan/bulan dan Rp150.000 untuk 8x pertemuan/bulan. \n\nDiskon Rp50.000 diberikan untuk pembayaran penuh dan untuk pendaftar yang memiliki saudara kandung yang juga les di tempat yang sama."
+      ]
+    },
+    {
+      "intent": "biaya_design",
+      "responses": [
+        "Kelas Desain tersedia dalam dua bahasa: Bahasa Indonesia dan Bahasa Inggris. \n\nHarga kelas DESIGN PER BULAN untuk KELAS BAHASA INDONESIA (Materi yang diajarkan berbahasa Indonesia) adalah : \n\n1) 4 pertemuan/bulan : Rp680.000. \n2) 8 pertemuan/bulan : Rp1.150.000 \n\nUntuk Kelas BAHASA INGGRIS (Materi yang diajarkan berbahasa inggris) adalah : \n\n1) 4x pertemuan/bulan : Rp730.000. \n2) 8x pertemuan/bulan : Rp1.200.000. \n\nNOTE : Tambahan Rp100.000 untuk kelas akhir pekan (Sabtu). \n\nBiaya belum termasuk biaya Class Kit sebesar Rp300.000 (e-learning, LMS Subscription, alat pembelajaran, dan sertifikat) \n\nRental laptop tersedia dengan harga Rp100.000 untuk 4x pertemuan/bulan dan Rp150.000 untuk 8x pertemuan/bulan. \n\nDiskon Rp50.000 diberikan untuk pembayaran penuh dan untuk pendaftar yang memiliki saudara kandung yang juga les di tempat yang sama."
+      ]
+    },
+    {
+      "intent": "biaya_hisensei",
+      "responses": [
+        "Harga kelas per bulan untuk Kursus Hisensei (Inggris & Math) adalah sebagai berikut: \n\n1. UNTUK MASYARAKAT UMUM : \n\n1) 4x pertemuan/bulan untuk 1 subject (Matematika atau Bahasa Inggris (pilih salah satu)) : Rp500.000. \n\n2) 4x pertemuan/bulan untuk 2 subject (Matematika dan Bahasa Inggris) : Rp900.000. \n\n2. UNTUK SISWA AKADEMI : \n\n1) 4x pertemuan/bulan untuk 1 subject (Matematika atau Bahasa Inggris (pilih salah satu)) : Rp450.000 \n2) 4x pertemuan/bulan untuk 2 subject (Matematika dan Bahasa Inggris) : Rp800.000. \n\nRental laptop tersedia dengan biaya tambahan Rp100.000 untuk 1x pertemuan/minggu dan Rp150.000 untuk 2x pertemuan/minggu. \n\nDiskon diberikan sebesar Rp50.000 untuk 4x pertemuan/bulan dengan minimal pembayaran sebanyak 3 bulan\n\nDiskon Rp100.000 untuk setiap anak yang berhasil diajak mendaftar kursus Hisensei di Akademi."
+      ]
+    },
+    {
+      "intent": "outofscope",
+      "responses": [
+        "Halo, Maaf sebelumnya. Aku belum dapat memahami Konteks pertanyaan kamu. Mohon pastikan kembali : \n\n1. Apakah pertanyaan yang dilontarkan merupakan pertanyaan terkait Akademi? \n\n2. Apakah teks pertanyaan terlalu pendek? (Bila teks pertanyaan terlalu pendek, Bot masih belum bisa bekerja secara maksimal) \n\nBila pertanyaan termasuk dalam konteks akademi dan kamu belum temukan jawabannya, harap hubungi Admin untuk konsultasi secara langsung. No Admin : +6285179981152"
+      ]
+    }
+  ]
+}
